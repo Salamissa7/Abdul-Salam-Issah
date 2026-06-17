@@ -1,2 +1,2 @@
 # Abdul-Salam-Issah
-ASssignment
+Assignment
